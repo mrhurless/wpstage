@@ -1,0 +1,44 @@
+/* Navigation Menus */
+
+
+.site-nav nav ul li {
+    font-size: 1.2rem;
+    margin-top: 10px;
+    margin-right: 5px;
+    padding-right: 5px;
+    border-right: 1px solid #BBB;
+    text-decoration: none;
+    list-style: none;
+    float: right;
+
+}
+.site-nav :hover {
+    color:white;
+
+}
+
+.site-footer nav ul li {
+    margin-top: 10px;
+    margin-right: 10px;
+    padding-right: 10px;
+    border-right: 1px solid #BBB;
+    text-decoration: none;
+    list-style: none;
+    float: right;
+
+}
+.searchbar {
+    padding-top: 5px;
+}
+
+.searchbar input[type=text]{
+    text-align: left;
+    width: 100%;
+    margin-top: 0px;
+    padding-top: 0px;
+    border: 2px solid white;
+    border-radius: 5px;
+    font-family: GeoSansLight;
+    font-size: 1.5rem;
+    float: right;
+}

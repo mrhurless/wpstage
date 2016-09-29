@@ -1,0 +1,25 @@
+#mc_embed_signup {
+    background-color: black;
+    color: white;
+}
+
+#mce-EMAIL {
+  font-family: sans-serif;;
+  font-size: 24px;
+  width:300px;
+}
+#mce-FNAME {
+  font-family: sans-serif;;
+  font-size: 24px;
+  width:200px;
+}
+#mce-LNAME {
+  font-family: sans-serif;;
+  font-size: 24px;
+  width:200px;
+}
+
+#mc-embedded-subscribe {
+  font-family: sans-serif;;
+  font-size: 30px;
+}

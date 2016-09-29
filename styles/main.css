@@ -1,0 +1,33 @@
+@font-face {
+  font-family: GeoSansLight;
+  src:url(http://creatorshack.com/resources/GeosansLight.ttf);
+}
+
+body {
+
+    font-family: GeoSansLight;
+    font-size: 14px;
+    background-color: #000;
+    color: #FFF;
+
+}
+
+a:link,
+a:visited {
+    color: rgb(242,115,53);
+    text-decoration: none
+}
+
+p {
+    line-height: 1.65em;
+}
+
+/* General layout */
+
+
+
+div.container {
+    max-width: 1000px; /*site width: */
+    margin: 0 auto;
+
+}

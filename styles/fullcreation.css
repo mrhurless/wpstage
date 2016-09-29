@@ -1,0 +1,67 @@
+/* single post CSS */
+
+
+.fullproject__title{
+  float:left;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 2rem;
+  color: purple;
+  height: 30px;
+  width: 100%;
+  clear: left;
+}
+
+.fullproject__author{
+  float: left;
+  display: block;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 1.3rem;
+  color: pink;
+  clear: left;
+}
+
+.fullproject__image img{
+  display: block;
+  float:right;
+  margin-top: 10px;
+  width:50%;
+  height:auto;
+  clear:right;
+}
+
+.fullproject__cost{
+  display: block;
+  float: left;
+  margin-top: 0px;
+  margin-right: 0px;
+  font-size: 1.0rem;
+  color: green;
+  clear: left;
+
+  }
+
+.fullproject__complexity{
+  float:left;
+  display: block;
+  margin-top: 0px;
+  margin-right: 5px;
+  font-size: 1.0rem;
+  color: brown;
+  clear: left;
+}
+
+.fullproject__duration{
+  float: left;
+  display: block;
+  margin-top: 0px;
+  margin-right: 5px;
+  font-size: 1.0rem;
+  color: white;
+  clear: left;
+}
+
+.fullproject__post{
+  float:left;
+}

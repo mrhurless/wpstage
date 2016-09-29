@@ -1,0 +1,35 @@
+
+/* Site Header */
+
+.siteheader {
+
+}
+
+.siteheader__logo img {
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+
+.siteheader__title a {
+    margin-top: 10px;
+    font-size: 1.7rem;
+    float: left;
+    color: white;
+}
+
+.searchbar {
+  text-align: right;
+  padding-top: 20px;
+  padding-right: 30px;
+  float: right;
+}
+.searchbar input[type=text]{
+    text-align: left;
+    width: 100%;
+    margin-top: 20px;
+    border: 2px solid white;
+    border-radius: 5px;
+    font-family: GeoSansLight;
+    font-size: 1.5rem;
+}
