@@ -25,13 +25,13 @@
                 </a>
             </div>
 
-
+<!-- commenting out temporarily
               <form>
                 <div class="searchbar">
                   <input type="text" name="lookfor" value="Search">
                 </div>
               </form>
-
+-->
 
           <div class="site-nav" >
             <nav class="site-nav">
